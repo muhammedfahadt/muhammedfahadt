@@ -34,6 +34,7 @@
     ![JHipster](https://img.shields.io/badge/JHipster-181717?style=flat&logo=jhipster) 
     ![OpenAPI](https://img.shields.io/badge/OpenAPI-181717?style=flat&logo=swagger)
     ![Hibernate](https://img.shields.io/badge/Hibernate-181717?style=flat&logo=hibernate&logoColor=white)
+    ![Flask](https://img.shields.io/badge/Flask-181717?style=flat&logo=flask&logoColor=white)
 
 *   **Data & AI:** <br>
     ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat&logo=mysql) 
