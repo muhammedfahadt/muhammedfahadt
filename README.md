@@ -20,10 +20,13 @@
 ### 🛠 Tech Stack
 
 *   **Languages:** <br>
+    ![Java](https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk&logoColor=red)
+    ![Dart](https://img.shields.io/badge/Dart-181717?style=flat&logo=dart&logoColor=blue)
+    ![C](https://img.shields.io/badge/-181717?style=flat&logo=c&logoColor=#A8B9CC)
     ![Python](https://img.shields.io/badge/Python-181717?style=flat&logo=python) 
     ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript) 
-    ![Dart](https://img.shields.io/badge/Dart-181717?style=flat&logo=dart) 
-    ![Java](https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk)
+    ![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=#E34F26)
+    ![CSS](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css&logoColor=##663399)
     
 *   **Frameworks & Tools:** <br>
     ![Flutter](https://img.shields.io/badge/Flutter-181717?style=flat&logo=flutter&logoColor=blue) 
