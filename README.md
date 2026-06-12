@@ -22,11 +22,11 @@
 *   **Languages:** <br>
     ![Java](https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk&logoColor=red)
     ![Dart](https://img.shields.io/badge/Dart-181717?style=flat&logo=dart&logoColor=blue)
-    ![C](https://img.shields.io/badge/-181717?style=flat&logo=c&logoColor=#A8B9CC)
+    ![C](https://img.shields.io/badge/C-181717?style=flat&logo=c&logoColor=#A8B9CC)
     ![Python](https://img.shields.io/badge/Python-181717?style=flat&logo=python) 
     ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript) 
     ![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=#E34F26)
-    ![CSS](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css&logoColor=##663399)
+    ![CSS](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=##264DE4)
     
 *   **Frameworks & Tools:** <br>
     ![Flutter](https://img.shields.io/badge/Flutter-181717?style=flat&logo=flutter&logoColor=blue) 
@@ -53,4 +53,6 @@
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
     ![Postman](https://img.shields.io/badge/Postman-181717?style=flat&logo=postman) 
     ![Insomnia](https://img.shields.io/badge/Insomnia-181717?style=flat&logo=insomnia&logoColor=blue)
+    ![Maven](https://img.shields.io/badge/Maven-181717?style=flat&logo=apache-maven)
+    ![Gradle](https://img.shields.io/badge/Gradle-181717?style=flat&logo=gradle)
 
