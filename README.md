@@ -11,5 +11,4 @@ I'm a **Software Developer** currently focused on **Flutter** and **Spring Boot*
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 📊 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedfahadt &show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedfahadt &layout=compact&theme=radical)
+https://github-readme-stats.vercel.app/api?username=muhammedfahadt )](https://github.com/muhammedfahadt /github-readme-stats
