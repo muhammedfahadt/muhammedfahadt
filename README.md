@@ -20,30 +20,32 @@
 ### 🛠 Tech Stack
 
 *   **Languages:** <br>
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) 
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) 
-    ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart) 
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
+    ![Python](https://img.shields.io/badge/Python-181717?style=flat&logo=python) 
+    ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript) 
+    ![Dart](https://img.shields.io/badge/Dart-181717?style=flat&logo=dart) 
+    ![Java](https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk)
     
 *   **Frameworks & Tools:** <br>
-    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter) 
-    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring) 
-    ![JHipster](https://img.shields.io/badge/JHipster-DD4814?style=flat&logo=jhipster) 
-    ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=swagger)
+    ![Flutter](https://img.shields.io/badge/Flutter-181717?style=flat&logo=flutter&logoColor=blue) 
+    ![Spring Boot](https://img.shields.io/badge/Spring_Boot-181717?style=flat&logo=spring) 
+    ![JHipster](https://img.shields.io/badge/JHipster-181717?style=flat&logo=jhipster) 
+    ![OpenAPI](https://img.shields.io/badge/OpenAPI-181717?style=flat&logo=swagger)
 
 *   **Data & AI:** <br>
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql) 
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql) 
-    ![PostGIS](https://img.shields.io/badge/PostGIS-336699?style=flat&logo=postgis) 
+    ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat&logo=mysql) 
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=flat&logo=postgresql) 
+    ![PostGIS](https://img.shields.io/badge/PostGIS-181717?style=flat&logo=postgis) 
     ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain) 
-    ![RAG](https://img.shields.io/badge/RAG-007FFF?style=flat&logo=brain)
+    ![RAG](https://img.shields.io/badge/RAG-181717?style=flat&logo=brain)
 
 *   **DevOps & Cloud:** <br>
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker) 
-    ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes) 
-    ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
+    ![Docker](https://img.shields.io/badge/Docker-181717?style=flat&logo=docker) 
+    ![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat&logo=kubernetes) 
+    ![AWS](https://img.shields.io/badge/AWS-181717?style=flat&logo=amazonaws)
 
 *   **Tools & Version Control:** <br>
-    ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git) 
+    ![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git) 
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+    ![Postman](https://img.shields.io/badge/Postman-181717?style=flat&logo=postman) 
+    ![Insomnia](https://img.shields.io/badge/Insomnia-181717?style=flat&logo=insomnia&logoColor=blue)
 
