@@ -58,5 +58,6 @@
     ![Swagger](https://img.shields.io/badge/Swagger-181717?style=flat&logo=swagger)
     ![Insomnia](https://img.shields.io/badge/Insomnia-181717?style=flat&logo=insomnia&logoColor=blue)
     ![Maven](https://img.shields.io/badge/Maven-181717?style=flat&logo=apache-maven)
-    ![Gradle](https://img.shields.io/badge/Gradle-181717?style=flat&logo=gradle)
+    ![Gradle](https://img.shields.io/badge/Gradle-181717?style=flat&logo=gradle&logoColor=teal)
+    ![Liquibase](https://img.shields.io/badge/Liquibase-181717?style=flat&logo=liquibase&logoColor=blue)
 
