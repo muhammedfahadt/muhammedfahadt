@@ -54,7 +54,8 @@
 *   **Tools & Version Control:** <br>
     ![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git) 
     ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-    ![Postman](https://img.shields.io/badge/Postman-181717?style=flat&logo=postman) 
+    ![Postman](https://img.shields.io/badge/Postman-181717?style=flat&logo=postman)
+    ![Swagger](https://img.shields.io/badge/Swagger-181717?style=flat&logo=swagger)
     ![Insomnia](https://img.shields.io/badge/Insomnia-181717?style=flat&logo=insomnia&logoColor=blue)
     ![Maven](https://img.shields.io/badge/Maven-181717?style=flat&logo=apache-maven)
     ![Gradle](https://img.shields.io/badge/Gradle-181717?style=flat&logo=gradle)
