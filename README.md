@@ -47,7 +47,8 @@
 
 *   **DevOps & Cloud:** <br>
     ![Docker](https://img.shields.io/badge/Docker-181717?style=flat&logo=docker) 
-    ![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat&logo=kubernetes) 
+    ![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat&logo=kubernetes)
+    ![Liquibase](https://img.shields.io/badge/Liquibase-181717?style=flat&logo=liquibase&logoColor=blue)
     ![AWS](https://img.shields.io/badge/AWS-181717?style=flat&logo=amazonaws)
     ![Render](https://img.shields.io/badge/Render-181717?style=flat&logo=render&logoColor=white)
 
@@ -59,5 +60,4 @@
     ![Insomnia](https://img.shields.io/badge/Insomnia-181717?style=flat&logo=insomnia&logoColor=blue)
     ![Maven](https://img.shields.io/badge/Maven-181717?style=flat&logo=apache-maven&logoColor=red)
     ![Gradle](https://img.shields.io/badge/Gradle-181717?style=flat&logo=gradle&logoColor=teal)
-    ![Liquibase](https://img.shields.io/badge/Liquibase-181717?style=flat&logo=liquibase&logoColor=blue)
 
