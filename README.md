@@ -49,6 +49,7 @@
     ![Docker](https://img.shields.io/badge/Docker-181717?style=flat&logo=docker) 
     ![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat&logo=kubernetes) 
     ![AWS](https://img.shields.io/badge/AWS-181717?style=flat&logo=amazonaws)
+    ![Render](https://img.shields.io/badge/Render-181717?style=flat&logo=render&logoColor=white)
 
 *   **Tools & Version Control:** <br>
     ![Git](https://img.shields.io/badge/Git-181717?style=flat&logo=git) 
