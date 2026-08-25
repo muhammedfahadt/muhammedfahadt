@@ -1,13 +1,13 @@
 <div align="center">
 
 # Muhammed Fahad T 
-**Engineering the future. I believe in solving fundamental problems through first principles, not by analogy. Currently focused on building systems that actually scale and make a measurable impact. If it's not improving the core, it's a distraction.**
+**Engineering the future. I believe in solving fundamental problems through first principles, not by analogy. Currently focused on building systems that actually scale and make a measurable impact.[...]
 
 **@code50 @lxisoft @DivisoSofttech @INTERNS-LXI-TECHNOLOGIES**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40muhammedfahadt-181717.svg?logo=github&variant=branded&size=sm&theme=neutral)](https://github.com/muhammedfahadt)
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/muhammedfahadt.svg?variant=secondary&size=sm&theme=neutral)](https://github.com/muhammedfahadt?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/muhammedfahadt.svg?variant=secondary&size=sm&theme=neutral)](https://github.com/muhammedfahadt?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-8-2563eb.svg?logo=github&variant=secondary&size=sm&theme=neutral)](https://github.com/muhammedfahadt?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-kerala%2CIndia-6366f1.svg?logo=googlemaps&variant=ghost&size=sm&theme=neutral) ![Company](https://www.shieldcn.dev/badge/Company-lxisoft-1f2937.svg?logo=building&variant=ghost&size=sm&theme=neutral)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/muhammedfahadt.svg?variant=secondary&size=sm&theme=neutral)](https://github.com/muhammedfahadt?tab=followers) [![GitHub Stars](https://[...]
 
 </div>
 
@@ -43,6 +43,7 @@
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=flat&logo=postgresql)
     ![H2](https://img.shields.io/badge/H2-181717?style=flat&logo=h2database)
     ![PostGIS](https://img.shields.io/badge/PostGIS-181717?style=flat&logo=postgis)
+    ![Redis](https://img.shields.io/badge/Redis-181717?style=flat&logo=redis)
     ![Sqlalchemy](https://img.shields.io/badge/Sqlalchemy-181717?style=flat&logo=sqlalchemy&logoColor=red)
     ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain) 
     ![RAG](https://img.shields.io/badge/RAG-181717?style=flat&logo=brain)
