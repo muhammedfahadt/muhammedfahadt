@@ -43,7 +43,7 @@
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=flat&logo=postgresql)
     ![H2](https://img.shields.io/badge/H2-181717?style=flat&logo=h2database)
     ![PostGIS](https://img.shields.io/badge/PostGIS-181717?style=flat&logo=postgis)
-    ![Sqlalchemy](https://img.shields.io/badge/Sqlalchemy-181717?style=flat&logo=sqlalchemy)
+    ![Sqlalchemy](https://img.shields.io/badge/Sqlalchemy-181717?style=flat&logo=sqlalchemy&logoColor=red)
     ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain) 
     ![RAG](https://img.shields.io/badge/RAG-181717?style=flat&logo=brain)
     ![MCP](https://img.shields.io/badge/MCP-181717?style=flat&logo=modelcontextprotocol)
