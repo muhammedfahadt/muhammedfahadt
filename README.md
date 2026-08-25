@@ -7,7 +7,8 @@
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40muhammedfahadt-181717.svg?logo=github&variant=branded&size=sm&theme=neutral)](https://github.com/muhammedfahadt)
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/muhammedfahadt.svg?variant=secondary&size=sm&theme=neutral)](https://github.com/muhammedfahadt?tab=followers) [![GitHub Stars](https://[...]
+[![GitHub Followers](https://img.shields.io/github/followers/muhammedfahadt?style=social)](https://github.com/muhammedfahadt?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/muhammedfahadt?style=social)](https://github.com/muhammedfahadt)
 
 </div>
 
