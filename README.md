@@ -35,7 +35,7 @@
     ![OpenAPI](https://img.shields.io/badge/OpenAPI-181717?style=flat&logo=swagger)
     ![Hibernate](https://img.shields.io/badge/Hibernate-181717?style=flat&logo=hibernate&logoColor=white)
     ![Flask](https://img.shields.io/badge/Flask-181717?style=flat&logo=flask&logoColor=white)
-    ![FastApi](https://img.shields.io/badge/FastApi-181717?style=flat&logo=fastapi&logoColor=green)
+    ![FastApi](https://img.shields.io/badge/FastApi-181717?style=flat&logo=fastapi&logoColor=teal)
 
 
 *   **Data & AI:** <br>
