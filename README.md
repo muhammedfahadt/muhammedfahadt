@@ -56,7 +56,7 @@
     ![Liquibase](https://img.shields.io/badge/Liquibase-181717?style=flat&logo=liquibase&logoColor=blue)
     ![AWS](https://img.shields.io/badge/AWS-181717?style=flat&logo=amazonaws)
     ![Render](https://img.shields.io/badge/Render-181717?style=flat&logo=render&logoColor=white)
-    ![Ngnix](https://img.shields.io/badge/Nginx-181717?style=flat&logo=nginx&logoColor=white)
+    ![Ngnix](https://img.shields.io/badge/Nginx-181717?style=flat&logo=nginx&logoColor=green)
 
 
 *   **Tools & Version Control:** <br>
