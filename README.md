@@ -35,6 +35,7 @@
     ![Hibernate](https://img.shields.io/badge/Hibernate-181717?style=flat&logo=hibernate&logoColor=white)
     ![Flask](https://img.shields.io/badge/Flask-181717?style=flat&logo=flask&logoColor=white)
     ![FastApi](https://img.shields.io/badge/FastApi-181717?style=flat&logo=fastapi&logoColor=#009688)
+    ![Pydantic](https://img.shields.io/badge/Pydantic-181717?style=flat&logo=pydantic&logoColor=pink)
 
 
 *   **Data & AI:** <br>
