@@ -1,15 +1,13 @@
 <div align="center">
 
 # Muhammed Fahad T 
-**Engineering the future. I believe in solving fundamental problems through first principles, not by analogy. Currently focused on building systems that actually scale and make a measurable impact.[...]
+**Engineering the future. I believe in solving fundamental problems through first principles, not by analogy. Currently focused on building systems that actually scale and make a measurable impact. If it's not improving the core, it's a distraction.**
 
 **@code50 @lxisoft @DivisoSofttech @INTERNS-LXI-TECHNOLOGIES**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40muhammedfahadt-181717.svg?logo=github&variant=branded&size=sm&theme=neutral)](https://github.com/muhammedfahadt)
 
-[![GitHub Followers](https://img.shields.io/github/followers/muhammedfahadt?style=social)](https://github.com/muhammedfahadt?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/muhammedfahadt?style=social)](https://github.com/muhammedfahadt)
-
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/muhammedfahadt.svg?variant=secondary&size=sm&theme=neutral)](https://github.com/muhammedfahadt?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/muhammedfahadt.svg?variant=secondary&size=sm&theme=neutral)](https://github.com/muhammedfahadt?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-8-2563eb.svg?logo=github&variant=secondary&size=sm&theme=neutral)](https://github.com/muhammedfahadt?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-kerala%2CIndia-6366f1.svg?logo=googlemaps&variant=ghost&size=sm&theme=neutral) ![Company](https://www.shieldcn.dev/badge/Company-lxisoft-1f2937.svg?logo=building&variant=ghost&size=sm&theme=neutral)
 </div>
 
 
