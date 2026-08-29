@@ -27,7 +27,7 @@
     ![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=#E34F26)
     ![CSS](https://img.shields.io/badge/CSS3-181717?style=for-the-badge&logo=css3&logoColor=##264DE4)
     
-*   **Frameworks & Tools:** <br>
+*   **Frameworks & Libraries:** <br>
     ![Flutter](https://img.shields.io/badge/Flutter-181717?style=flat&logo=flutter&logoColor=blue) 
     ![Spring Boot](https://img.shields.io/badge/Spring_Boot-181717?style=flat&logo=spring) 
     ![JHipster](https://img.shields.io/badge/JHipster-181717?style=flat&logo=jhipster) 
