@@ -56,6 +56,7 @@
     ![AWS](https://img.shields.io/badge/AWS-181717?style=flat&logo=amazonaws)
     ![Render](https://img.shields.io/badge/Render-181717?style=flat&logo=render&logoColor=white)
     ![Ngnix](https://img.shields.io/badge/Nginx-181717?style=flat&logo=nginx&logoColor=green)
+    ![Sentry](https://img.shields.io/badge/Sentry-181717?style=flat&logo=sentry&logoColor=white)
 
 
 *   **Workflow & Build Systems:** <br>
