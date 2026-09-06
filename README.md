@@ -70,4 +70,4 @@
 
 ### 🏆 Certifications
 * [![Oracle Certified Gen AI Professional](https://img.shields.io/badge/Oracle_Certified-Gen_AI_Professional-F80000?style=flat&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=62455E9A0CB430BFBDCB6578492A11D311104ED271005E13C42F19C23D798706)
-* [![Anthropic MCP Advanced Topics](https://img.shields.io/badge/Anthropic-MCP_Advanced_Topics-181717?style=flat&logoColor=white)](https://verify.skilljar.com/c/tp67vgjyg9jg)
+* **Anthropic MCP Advanced Topics** – <a href="https://verify.skilljar.com/c/tp67vgjyg9jg" target="_blank" rel="noreferrer">View Certificate</a>
