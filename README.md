@@ -70,7 +70,7 @@
 
 
 
-### 🎖️ Licenses & Certifications
+### ✔ Licenses & Certifications
 * [![Oracle Certified Gen AI Professional](https://img.shields.io/badge/Oracle_Certified-Gen_AI_Professional-F80000?style=flat&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=62455E9A0CB430BFBDCB6578492A11D311104ED271005E13C42F19C23D798706)
 * [![Oracle Certified Foundational Gen AI Associate](https://img.shields.io/badge/Oracle_Certified-Gen_AI_Foundations_Associate-F80000?style=flat&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FDEE77DBE195527A39143F96DCC72CC3C171D9F0BEA1EC0900A5E9DB5E3C0A5B)
 * **Anthropic MCP Advanced Topics** – Credential ID: `tp67vgjyg9jg` *(Verification via Skilljar currently restricted by server-side firewall)*
