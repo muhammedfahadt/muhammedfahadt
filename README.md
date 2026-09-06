@@ -16,7 +16,7 @@
 
 ---
 
-### </> Tech Stack
+### 🖳 Tech Stack
 
 *   **Languages:** <br>
     ![Java](https://img.shields.io/badge/Java-181717?style=flat&logo=openjdk&logoColor=red)
