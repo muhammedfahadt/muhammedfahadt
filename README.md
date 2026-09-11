@@ -36,7 +36,7 @@
     ![Flask](https://img.shields.io/badge/Flask-181717?style=flat&logo=flask&logoColor=white)
     ![FastApi](https://img.shields.io/badge/FastApi-181717?style=flat&logo=fastapi&logoColor=#009688)
     ![Pydantic](https://img.shields.io/badge/Pydantic-181717?style=flat&logo=pydantic&logoColor=pink)
-
+    [![Spring AI](https://img.shields.io/badge/Spring_AI-181717?style=flat&logo=spring)](https://spring.io/projects/spring-ai)
 
 *   **Data & AI:** <br>
     ![MySQL](https://img.shields.io/badge/MySQL-181717?style=flat&logo=mysql) 
